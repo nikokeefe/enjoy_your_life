@@ -1,0 +1,6 @@
+2020-04-14T07:45:11+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\woocommerce\archive-product.php on line 112
+
+2020-04-14T09:34:38+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wp_sites\enjoy_your_life/wp-content/themes/enjoy/inc/wc-modifications.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\functions.php on line 74
+
+2020-04-14T09:34:40+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wp_sites\enjoy_your_life/wp-content/themes/enjoy/inc/wc-modifications.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\functions.php on line 74
+

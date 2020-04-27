@@ -1,0 +1,10 @@
+2020-04-20T03:09:02+00:00 CRITICAL Uncaught Error: Call to undefined function the_authors_link() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\index.php:37
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\index.php on line 37
+
+2020-04-20T03:15:21+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\index.php on line 51
+

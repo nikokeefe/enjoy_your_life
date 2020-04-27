@@ -1,0 +1,117 @@
+2020-04-19T02:47:35+00:00 CRITICAL Uncaught Error: Call to undefined function add_imge_size() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\functions.php:74
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\class-wp-hook.php(287): enjoy_config('')
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-settings.php(524): do_action('after_setup_the...')
+#4 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-admin\options-media.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\functions.php on line 74
+
+2020-04-19T07:07:54+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:09:04+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:10:18+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:11:52+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:12:45+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:12:56+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:09+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:15+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:16+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:16+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:17+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
+2020-04-19T07:13:33+00:00 CRITICAL Uncaught Error: Call to undefined function the_post_thunmbnail() in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php:35
+Stack trace:
+#0 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp_sites\enjoy_your_life\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wp_sites\enjoy_your_life\wp-content\themes\enjoy\template-home.php on line 35
+
